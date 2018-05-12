@@ -1,0 +1,36 @@
+_repo: Sleep-Walking-and-Moon-Walking--A-Medico-Literary-Study_30556
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Brink, Louise
+    birthdate: 1876
+    gutenberg_agent_id: '34677'
+    url: http://www.gutenberg.org/2009/agents/34677
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sadger, J.
+    alias: Sadger, Isidor Isaak
+    birthdate: 1867
+    deathdate: 1942
+    gutenberg_agent_id: '34676'
+    url: http://www.gutenberg.org/2009/agents/34676
+    wikipedia: http://en.wikipedia.org/wiki/Isidor_Isaak_Sadger
+description: ''
+gutenberg_issued: '2009-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30556'
+  lccn: '21000193'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sleepwalking'
+- !lcsh 'Psychoanalysis'
+- !lcc 'BF'
+title: 'Sleep Walking and Moon Walking: A Medico-Literary Study'
+url: http://www.gutenberg.org/ebooks/30556

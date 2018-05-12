@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34676
     wikipedia: http://en.wikipedia.org/wiki/Isidor_Isaak_Sadger
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30556#Sleep-Walking-and-Moon-Walking--A-Medico-Literary-Study
 gutenberg_issued: '2009-11-28'
 gutenberg_type: Text
 identifiers:
